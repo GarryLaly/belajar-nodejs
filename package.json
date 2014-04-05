@@ -3,6 +3,7 @@
   "name": "belajar-nodejs",
   "description": "Belajar Node Js",
   "version": "1.0.0",
+  "main": "app.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/GarryLaly/belajar-nodejs.git"
